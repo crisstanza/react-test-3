@@ -4,7 +4,7 @@ clear ; cd "$(dirname "${0}")"
 PROJECT=test-3
 
 create() {
-    pwd ; echo ; npx create-react-app ${PROJECT} --template typescript ; echo ; echo
+    pwd ; echo ; npx create-react-app ${PROJECT} --template typescript --skip-git ; echo ; echo
 }
 
 log() {
