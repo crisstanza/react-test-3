@@ -6,6 +6,7 @@ Run:
     ./bash.bash create
 
 Success! Created test-3 at ~\GitHub\react-test-3\test-3
+
 Inside that directory, you can run several commands:
 
     npm start       # Starts the development server.
